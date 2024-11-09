@@ -1,0 +1,70 @@
+
+.figma{
+    margin-top: 80px;
+}
+.card-1{ 
+    
+background-color: #F5FCFF;
+}
+.emon{
+border-bottom:2px solid rgb(10, 10, 235) ;
+border-radius: 10px;
+
+}
+.h{
+    border: 2px solid #5BA1A1;
+}
+.button{
+background-color:#E62872;
+}
+.button:hover{
+background-color:#E62872;
+
+}
+.font{
+    font-size: 15px;
+}
+.img{
+width: 16px !important;
+
+}
+.bg{
+    background-color: #F5FCFF;
+}
+.w{
+    background-color: #F5FCFF;
+}
+.p{
+    border-color: #5E3BEE;
+}
+
+
+.bbbb{
+    border-bottom:2px solid #5E3BEE ;
+top: -5px;
+
+padding-right: 5px;
+
+}
+.c{  
+    color: white;
+    background-color: #5E3BEE;
+}
+.c:hover{
+    color: white;
+    background-color: #5E3BEE;
+}
+
+
+ input:focus{
+    outline: none;
+}
+.open{
+width: 25px;
+
+}
+
+
+
+
+
